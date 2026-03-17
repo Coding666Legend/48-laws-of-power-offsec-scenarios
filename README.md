@@ -99,7 +99,7 @@
 48. Assume formlessness
 
 #### IMPORTANT NOTICE:
-`All of the approaches are based on the **Legacy Technologies**.`
-
-
-`The list of approaches based on the **Modern Technologies** will be Published Soon...` 
+```
+All of the approaches are based on the **Legacy Technologies**.  
+The list of approaches based on the **Modern Systems** will be Published Soon...  
+```
