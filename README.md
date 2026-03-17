@@ -97,3 +97,7 @@
 47. Do not go past the mark you aimed for; in victory, learn when to stop
     
 48. Assume formlessness
+
+#### IMPORTANT NOTICE:
+`All of the approaches are based on the **Legacy Technologies**.`
+`The list of approaches based on the **Modern Technologies** will be Published Soon...` 
