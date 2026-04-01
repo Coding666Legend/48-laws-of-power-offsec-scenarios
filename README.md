@@ -3,7 +3,7 @@
 ### **The 48 Laws of Power**
 
 1. Never outshine the master  
-   [Scenario for the Law - 1](48-OffSec-Scenarios/laws-scenarios/law-and-scenario_1.md)
+   [Scenario for the Law - 1](./laws-scenarios/law-and-scenario_1.md)
 
 2. Never put too much trust in friends; learn how to use enemies  
    [Scenario for the Law - 2](./laws-scenarios/law-and-scenario_2.md)
