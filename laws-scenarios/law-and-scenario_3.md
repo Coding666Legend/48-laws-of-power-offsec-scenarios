@@ -157,6 +157,8 @@ Target behavior:
 - Clicks link (routine action)
     
 - Logs in (expected behavior)
+
+- Views the document (expected behavior)
     
 - No suspicion triggered
     
